@@ -1,0 +1,19 @@
+.axis-y {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+
+    .axis {
+        width: 1px;
+        background: #8a8a8a;
+        height: 100%;
+        position: absolute;
+        left: 50px;
+    }
+}

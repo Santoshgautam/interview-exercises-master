@@ -1,0 +1,7 @@
+{
+  "title": "Percentage of Sales in the Last 10 Months",
+  "data": [
+    49, 8, 23, 57, 94, 78, 94, 54, 75, 63
+  ],
+  "labels": ["November", "December", "January", "February", "April", "May", "June", "July", "August", "September"]
+}

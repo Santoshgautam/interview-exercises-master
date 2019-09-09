@@ -1,0 +1,24 @@
+# UI-bar-graph exercise
+
+## Instructions
+
+- Using any UI framework (or none) create a bar graph using the data.json file provided using javascript and css
+- Do not use any third party graph libraries, the graph should be your own
+- After you complete the exercise, provide notes below on how your code can be ran whether it be by simply opening a index.html file or through an npm command
+
+## Candidate Notes:
+
+## Instructions to run the code
+
+#### Installation
+    npm install
+
+#### Run the code
+    npm start
+
+#### Usage
+The application can be accessed on the URL: [http://localhost:3000/](http://localhost:3000/)
+
+#### Run test cases
+    npm test
+
